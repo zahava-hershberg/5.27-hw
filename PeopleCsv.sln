@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleCsv.Web", "PeopleCsv.Web\PeopleCsv.Web.csproj", "{14B6614D-D98F-4AC2-83E2-45342FA248DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleCsv.Data", "PeopleCsv.Data\PeopleCsv.Data.csproj", "{1DF21944-188A-4B57-A53F-923C7C2A9D3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14B6614D-D98F-4AC2-83E2-45342FA248DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B6614D-D98F-4AC2-83E2-45342FA248DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B6614D-D98F-4AC2-83E2-45342FA248DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B6614D-D98F-4AC2-83E2-45342FA248DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DF21944-188A-4B57-A53F-923C7C2A9D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF21944-188A-4B57-A53F-923C7C2A9D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DF21944-188A-4B57-A53F-923C7C2A9D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF21944-188A-4B57-A53F-923C7C2A9D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
