@@ -16,6 +16,7 @@ const Home = () => {
 
     const onDeleteClick=async()=>{
         await axios.post('/api/file/deleteall');
+        getPeople();
     }
 
   
